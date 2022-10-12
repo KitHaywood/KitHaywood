@@ -6,13 +6,16 @@ I aim to bring a combination of analytical outlooks to any new project: namely -
 
   - Can existing metrics be built on, tweaked, combined or expedited? 
   - Can new metrics be built from scratch to work in tandem with any in current operation? 
-  - Can we reduce noise, randomness, latency or error in results or signals? 
+  - Can we reduce noise, latency, error or cost in results or signals? 
   - Can we reduce risk of loss or failure by running real-world testing in an extensive manner to validate our insights?
   - Will this project be appropriate, robust and accessible to any future developers who might be involved?
+
+I hope that we can share ideas, collaborate knowledge & resources and make some profitable services - please reach out!
 
 <p align="center"> 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KitHaywood&theme=radical" /> 
 </p>
+
 
 ## Metrics
 <d align="center">
