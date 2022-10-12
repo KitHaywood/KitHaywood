@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KitHaywood
-- 👀 I’m interested in Quantitative Development in Python, Rust and SQL
-- 🌱 I’m currently learning                         ^^^^^^^^^^^^^^^^^^^^
+- 👀 I’m interested in Quantitative Development in Python, R, SQL using Linux, Docker, Kubernetes
+- 🌱 I’m currently learning C++ and Rust
 - 💞️ I’m looking to collaborate on all things Maths, Finance, Probability, Backtesting
 - 📫 How to reach me 
 
