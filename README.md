@@ -18,14 +18,13 @@ I hope that we can share ideas, collaborate knowledge & resources and make some 
 
 
 ## Metrics
-<d align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=KitHaywood&show_icons=true&theme=radical" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  </p>
+ 
+<p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KitHaywood&layout=compact&theme=radical" />
-  </a>
-</d>
+</p>
 
 ## Contact Details
 
