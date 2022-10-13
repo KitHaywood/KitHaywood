@@ -16,15 +16,18 @@ I hope that we can share ideas, collaborate knowledge & resources and make some 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KitHaywood&theme=radical" /> 
 </p>
 
-
 ## Metrics
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=KitHaywood&show_icons=true&theme=radical" />
   </p>
+  
+  
  
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KitHaywood&layout=compact&theme=radical" />
 </p>
+
+
 
 ## Contact Details
 
