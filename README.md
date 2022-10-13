@@ -6,9 +6,9 @@ I aim to bring a combination of analytical outlooks to any new project: namely -
 
   - Can existing metrics be built on, tweaked, combined or expedited? 
   - Can new metrics be built from scratch to work in tandem with any in current operation? 
-  - Can we reduce noise, latency, error or cost in results or signals? 
+  - Can we reduce noise, latency, error or cost in producing results or signals? 
   - Can we reduce risk of loss or failure by running real-world testing in an extensive manner to validate our insights?
-  - Will this project be appropriate, robust and accessible to any future developers who might be involved?
+  - Will the resulting codebase be appropriate, robust and accessible to any future developers who might be involved?
 
 I hope that we can share ideas, collaborate knowledge & resources and make some profitable services - please reach out!
 
@@ -22,7 +22,6 @@ I hope that we can share ideas, collaborate knowledge & resources and make some 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=KitHaywood&show_icons=true&theme=radical" />
   </a>
-<a>_</a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KitHaywood&layout=compact&theme=radical" />
   </a>
